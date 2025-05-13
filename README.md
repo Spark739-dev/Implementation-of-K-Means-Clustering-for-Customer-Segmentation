@@ -16,7 +16,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 6. Then use use KMeans to store the number of clusters for real use
 7. Use fit to train the real clusters.
 8. Use y_pred variable to store the predictions after printing it shows the array type which clusters it belongs to.
-9. Create new feature called clusters to store the clusters of datapoints of y_pred varaiable and then apply to all features starting from Annual Income (k$) and Spending Score (1-100) feature.
+9. Create new feature called clusters to store the clusters of datapoints of y_pred variable and then apply to all features starting from Annual Income (k$) and Spending Score (1-100) feature.
 10. Use matplotlib.pyplot to visualize the y_pred of different clusters values in those selected features. 
 
 ## Program:
